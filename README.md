@@ -12,5 +12,5 @@ Simple P-MOS based low dropout reverse polarity protection
 3. html BOM file.
 
 ___
-(c) 2020 by Piotr Zapart
+(c) 2020 by Piotr Zapart  
 www.hexefx.com
